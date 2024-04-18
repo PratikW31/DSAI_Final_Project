@@ -40,10 +40,6 @@ def main():
     st.markdown("- **ClickML:** This section is the main page of the **ClickML** web app. It provides the customizability to build Machine Learning models by selecting and applying the Data Preparation techniques that fits your data. Also, you can try differnet Machine Learning models and tune the hyperparameters to get the best model.", unsafe_allow_html=True)
     st.write("\n")
 
-    # QuickML
-    st.markdown("### 🚀 QuickML")
-    st.markdown("- **QuickML:** QuickML is a tab that allows you to build a model quickly with just a few clicks. This tab is designed for people who are new to Machine Learning and want to build a model quickly without having to go through the entire process of Exploratory Data Analysis, Data Cleaning, Feature Engineering, etc. It is just a quick way to build a model for testing purposes.", unsafe_allow_html=True)
-    st.write("\n")
 
     # StudyML
     st.markdown("### 📚 StudyML")
