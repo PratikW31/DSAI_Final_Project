@@ -32,7 +32,7 @@ def main():
     
     
     # what this app does with the main, quickml, and study_time pages
-    st.markdown("This app is divided into three main tabs: **👉 ClickML**, **🚀 QuickML**, and **📚 StudyML**.", unsafe_allow_html=True)
+    st.markdown("This app is divided into two main tabs: **👉 ClickML** and **📚 StudyML**.", unsafe_allow_html=True)
     st.write("\n")
 
     # ClickML
